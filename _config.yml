@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Harry Davis"
 description              : "An amazing website."
-url                      : "https://harryjoedavis.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://harryjoedavis@github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "harryjoedavis/harryjoedavis.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -114,33 +114,55 @@ analytics:
 
 # Site Author
 author:
-  name             : "Harry Davis"
-  avatar           :  "/assets/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Glacial geophysics PhD student."
-  location         : "University of Edinburgh"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:h.davis@ed.ac.uk"
-    - label: "LinkedIn"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/harryjoedavis/"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-square-facebook"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/harryjoedavis"
-   
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      # url:
+      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
+    - label: "Facebook"
+      icon: "fab fa-fw fa-square-facebook"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
-  since: "2026"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+  since: "2013"
 
 
 # Reading Files
