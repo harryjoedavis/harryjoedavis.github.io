@@ -136,7 +136,7 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "https://github.com/harryjoedavis"
+      icon: "fab fa-fw fa-github"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-link"
