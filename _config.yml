@@ -115,10 +115,10 @@ analytics:
 # Site Author
 author:
   name             : "Harry Davis"
-  avatar           :  "/assets/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Glacial geophysics PhD student"
   location         : "Edinburgh"
-  email            :
+  email            : "h.davis@ed.ac.uk"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
